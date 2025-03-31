@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="compY" format="2">
+  <advance width="1536"/>
+  <outline>
+    <contour>
+      <point x="0" y="256" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="256" y="256" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>wobniar_Red/public.default</key>
+        <string>wobniar_Yellow/public.default</string>
+        <key>wobniar_Regular/public.default</key>
+        <string>default</string>
+        <key>wobniar_Thin/public.default</key>
+        <string>Thin</string>
+      </dict>
+      <key>xyz.fontra.source-names</key>
+      <dict>
+        <key>Red</key>
+        <string>Yellow</string>
+        <key>Regular</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

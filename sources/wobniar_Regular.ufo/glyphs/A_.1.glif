@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A.1" format="2">
+  <advance width="1536"/>
+  <outline>
+    <component base="compO" xOffset="256"/>
+    <component base="compO" xOffset="256" yOffset="256"/>
+    <component base="compO" xOffset="256" yOffset="512"/>
+    <component base="compO" xOffset="256" yOffset="768"/>
+    <component base="compO" xOffset="256" yOffset="1024"/>
+    <component base="compO" xOffset="256" yOffset="1280"/>
+    <component base="compO" xOffset="1024"/>
+    <component base="compO" xOffset="1024" yOffset="1280"/>
+    <component base="compO" xOffset="768" yOffset="1280"/>
+    <component base="compO" xOffset="512" yOffset="1280"/>
+    <component base="compO" xOffset="1024" yOffset="768"/>
+    <component base="compO" xOffset="1024" yOffset="1024"/>
+    <component base="compO" xOffset="512" yOffset="768"/>
+    <component base="compO" xOffset="768" yOffset="768"/>
+    <component base="compO" xOffset="1024" yOffset="512"/>
+    <component base="compO" xOffset="1024" yOffset="256"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>wobniar_Regular/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

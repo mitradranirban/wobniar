@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="compO" format="2">
+  <advance width="1536"/>
+  <outline>
+    <contour>
+      <point x="127" y="129" type="line"/>
+      <point x="127" y="127" type="line"/>
+      <point x="129" y="127" type="line"/>
+      <point x="129" y="129" type="line"/>
+    </contour>
+  </outline>
+</glyph>

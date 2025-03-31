@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>.notdef</key>
+    <string>_notdef.glif</string>
+    <key>A</key>
+    <string>A_.glif</string>
+    <key>A.0</key>
+    <string>A_.0.glif</string>
+    <key>A.1</key>
+    <string>A_.1.glif</string>
+    <key>A.2</key>
+    <string>A_.2.glif</string>
+    <key>A.3</key>
+    <string>A_.3.glif</string>
+    <key>A.4</key>
+    <string>A_.4.glif</string>
+    <key>A.5</key>
+    <string>A_.5.glif</string>
+    <key>A.6</key>
+    <string>A_.6.glif</string>
+    <key>comp0</key>
+    <string>comp0.glif</string>
+    <key>compB</key>
+    <string>compB_.glif</string>
+    <key>compG</key>
+    <string>compG_.glif</string>
+    <key>compI</key>
+    <string>compI_.glif</string>
+    <key>compO</key>
+    <string>compO_.glif</string>
+    <key>compR</key>
+    <string>compR_.glif</string>
+    <key>compV</key>
+    <string>compV_.glif</string>
+    <key>compY</key>
+    <string>compY_.glif</string>
+    <key>space</key>
+    <string>space.glif</string>
+  </dict>
+</plist>

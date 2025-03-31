@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.55">
+
+ 
+  <COLR>
+    <version value="0"/>
+    <ColorGlyph name="A">
+      <layer colorID="0" name="A.0"/>
+      <layer colorID="1" name="A.1"/>
+      <layer colorID="2" name="A.2"/>
+      <layer colorID="3" name="A.3"/>
+      <layer colorID="0" name="A.4"/>
+      <layer colorID="2" name="A.5"/>
+      <layer colorID="3" name="A.6"/>
+    </ColorGlyph>
+  </COLR>
+
+  <CPAL>
+    <version value="0"/>
+    <numPaletteEntries value="7"/>
+    <palette index="0">
+      <color index="0" value="#0000FF80"/>
+      <color index="1" value="#00FF0080"/>
+      <color index="2" value="#4B008280"/>
+      <color index="3" value="#8F00FF80"/>
+      <color index="4" value="#FF000080"/>
+      <color index="5" value="#FF7F0080"/>
+      <color index="6" value="#FFFF0080"/>
+    </palette>
+  </CPAL>
+
+</ttFont>
