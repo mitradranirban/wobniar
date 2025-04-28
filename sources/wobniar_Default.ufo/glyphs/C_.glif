@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="1024"/>
+  <unicode hex="0043"/>
+  <outline>
+    <component base="comp0" xOffset="256"/>
+    <component base="comp0" xOffset="256" yOffset="256"/>
+    <component base="comp0" xOffset="256" yOffset="512"/>
+    <component base="comp0" xOffset="256" yOffset="768"/>
+    <component base="comp0" xOffset="256" yOffset="1024"/>
+    <component base="comp0" xOffset="256" yOffset="1280"/>
+    <component base="comp0" xOffset="512"/>
+    <component base="comp0" xOffset="768"/>
+    <component base="comp0" xOffset="768" yOffset="1280"/>
+    <component base="comp0" xOffset="512" yOffset="1280"/>
+    <component base="comp0" xOffset="1024" yOffset="1280"/>
+    <component base="comp0" xOffset="1024"/>
+  </outline>
+</glyph>

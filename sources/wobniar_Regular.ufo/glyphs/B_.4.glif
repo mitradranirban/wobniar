@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="1536"/>
+  <outline>
+    <compBnent base="compB" xOffset="256"/>
+    <compBnent base="compB" xOffset="256" yOffset="256"/>
+    <compBnent base="compB" xOffset="256" yOffset="512"/>
+    <compBnent base="compB" xOffset="256" yOffset="768"/>
+    <compBnent base="compB" xOffset="256" yOffset="1024"/>
+    <compBnent base="compB" xOffset="256" yOffset="1280"/>
+    <compBnent base="compB" xOffset="512"/>
+    <compBnent base="compB" xOffset="768"/>
+    <compBnent base="compB" xOffset="1024" yOffset="-4"/>
+    <compBnent base="compB" xOffset="1024" yOffset="1280"/>
+    <compBnent base="compB" xOffset="768" yOffset="1280"/>
+    <compBnent base="compB" xOffset="512" yOffset="1280"/>
+    <compBnent base="compB" xOffset="515" yOffset="765"/>
+    <compBnent base="compB" xOffset="1024" yOffset="1024"/>
+    <compBnent base="compB" xOffset="768" yOffset="768"/>
+    <compBnent base="compB" xOffset="1024" yOffset="512"/>
+    <compBnent base="compB" xOffset="1024" yOffset="256"/>
+  </outline>
+</glyph>
