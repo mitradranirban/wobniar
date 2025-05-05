@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A.2" format="2">
-  <advance width="1024"/>
+  <advance width="1536"/>
   <outline>
     <component base="comp0" xOffset="256"/>
     <component base="comp0" xOffset="256" yOffset="256"/>
@@ -19,18 +19,4 @@
     <component base="comp0" xOffset="1024" yOffset="512"/>
     <component base="comp0" xOffset="1024" yOffset="256"/>
   </outline>
-  <lib>
-    <dict>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>wobniar_Regular/public.default</key>
-        <string>default</string>
-      </dict>
-      <key>xyz.fontra.source-names</key>
-      <dict>
-        <key>Regular</key>
-        <string>default</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

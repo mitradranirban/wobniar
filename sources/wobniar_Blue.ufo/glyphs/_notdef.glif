@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name=".notdef" format="2">
-  <advance width="1280"/>
+  <advance width="1536"/>
   <outline>
     <component base="comp0"/>
     <component base="comp0" yOffset="256"/>
@@ -31,22 +31,4 @@
     <component base="comp0" xOffset="768" yOffset="512"/>
     <component base="comp0" xOffset="1024" yOffset="256"/>
   </outline>
-  <lib>
-    <dict>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>wobniar_Regular/public.default</key>
-        <string>default</string>
-        <key>wobniar_Thin/public.default</key>
-        <string>thin</string>
-      </dict>
-      <key>xyz.fontra.source-names</key>
-      <dict>
-        <key>Regular</key>
-        <string>default</string>
-        <key>Thin</key>
-        <string>thin</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
