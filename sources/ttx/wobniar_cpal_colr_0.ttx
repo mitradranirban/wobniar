@@ -107,6 +107,15 @@
       <layer colorID="5" name="J.5"/>
       <layer colorID="6" name="J.6"/>
     </ColorGlyph>
+    <ColorGlyph name="K">
+      <layer colorID="0" name="K.0"/>
+      <layer colorID="1" name="K.1"/>
+      <layer colorID="2" name="K.2"/>
+      <layer colorID="3" name="K.3"/>
+      <layer colorID="4" name="K.4"/>
+      <layer colorID="5" name="K.5"/>
+      <layer colorID="6" name="K.6"/>
+    </ColorGlyph>
   </COLR>
 
   
