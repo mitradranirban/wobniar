@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.4" format="2">
+  <advance width="1806"/>
+  <outline>
+    <component base="compB" xOffset="256"/>
+    <component base="compB" xOffset="256" yOffset="256"/>
+    <component base="compB" xOffset="256" yOffset="512"/>
+    <component base="compB" xOffset="256" yOffset="768"/>
+    <component base="compB" xOffset="256" yOffset="1024"/>
+    <component base="compB" xOffset="256" yOffset="1280"/>
+    <component base="compB" xOffset="1294"/>
+    <component base="compB" xOffset="1294" yOffset="256"/>
+    <component base="compB" xOffset="1294" yOffset="512"/>
+    <component base="compB" xOffset="1294" yOffset="768"/>
+    <component base="compB" xOffset="1294" yOffset="1024"/>
+    <component base="compB" xOffset="1294" yOffset="1280"/>
+    <component base="compB" xOffset="1038" yOffset="1024"/>
+    <component base="compB" xOffset="512" yOffset="1024"/>
+    <component base="compB" xOffset="768" yOffset="768"/>
+  </outline>
+</glyph>

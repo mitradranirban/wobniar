@@ -116,6 +116,24 @@
       <layer colorID="5" name="K.5"/>
       <layer colorID="6" name="K.6"/>
     </ColorGlyph>
+    <ColorGlyph name="L">
+      <layer colorID="0" name="L.0"/>
+      <layer colorID="1" name="L.1"/>
+      <layer colorID="2" name="L.2"/>
+      <layer colorID="3" name="L.3"/>
+      <layer colorID="4" name="L.4"/>
+      <layer colorID="5" name="L.5"/>
+      <layer colorID="6" name="L.6"/>
+    </ColorGlyph>
+    <ColorGlyph name="M">
+      <layer colorID="0" name="M.0"/>
+      <layer colorID="1" name="M.1"/>
+      <layer colorID="2" name="M.2"/>
+      <layer colorID="3" name="M.3"/>
+      <layer colorID="4" name="M.4"/>
+      <layer colorID="5" name="M.5"/>
+      <layer colorID="6" name="M.6"/>
+    </ColorGlyph>
   </COLR>
 
   

@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
   <axes>
-    <axis tag="red " name="RED " minimum="0" maximum="100" default="0"/>
-    <axis tag="orng" name="ORNG" minimum="0" maximum="100" default="0"/>
-    <axis tag="yelw" name="YELW" minimum="0" maximum="100" default="0"/>
-    <axis tag="gren" name="GREN" minimum="0" maximum="100" default="0"/>
-    <axis tag="blue" name="BLUE" minimum="0" maximum="100" default="0"/>
-    <axis tag="indg" name="INDG" minimum="0" maximum="100" default="0"/>
-    <axis tag="viol" name="VIOL" minimum="0" maximum="100" default="0"/>
+    <axis tag="RED " name="RED " minimum="0" maximum="100" default="0"/>
+    <axis tag="ORNG" name="ORNG" minimum="0" maximum="100" default="0"/>
+    <axis tag="YELW" name="YELW" minimum="0" maximum="100" default="0"/>
+    <axis tag="GREN" name="GREN" minimum="0" maximum="100" default="0"/>
+    <axis tag="BLUE" name="BLUE" minimum="0" maximum="100" default="0"/>
+    <axis tag="INDG" name="INDG" minimum="0" maximum="100" default="0"/>
+    <axis tag="VIOL" name="VIOL" minimum="0" maximum="100" default="0"/>
   </axes>
   <sources>
-    <source filename="wobniar_Default.ufo"  familyname="WOBNIAR" stylename="Default">
+    <source filename="wobniar_Default.ufo" name="::fontra000-21aac20b" familyname="WOBNIAR" stylename="Default">
       <location>
         <dimension name="RED " xvalue="0"/>
         <dimension name="ORNG" xvalue="0"/>
@@ -21,7 +21,7 @@
         <dimension name="VIOL" xvalue="0"/>
       </location>
     </source>
-    <source filename="wobniar_Red.ufo" name="5e3bce34::fontra002-a214507a" familyname="WOBNIAR" stylename="Red">
+    <source filename="wobniar_Red.ufo" name="5e3bce34::fontra002-a214507a::fontra001-3d4d4fba" familyname="WOBNIAR" stylename="Red">
       <location>
         <dimension name="RED " xvalue="100"/>
         <dimension name="ORNG" xvalue="0"/>
@@ -32,7 +32,7 @@
         <dimension name="VIOL" xvalue="0"/>
       </location>
     </source>
-    <source filename="wobniar_Orange.ufo" name="::fontra003-25d78c22" familyname="WOBNIAR" stylename="Orange">
+    <source filename="wobniar_Orange.ufo" name="::fontra003-25d78c22::fontra002-7aa54205" familyname="WOBNIAR" stylename="Orange">
       <location>
         <dimension name="RED " xvalue="0"/>
         <dimension name="ORNG" xvalue="100"/>
@@ -43,7 +43,7 @@
         <dimension name="VIOL" xvalue="0"/>
       </location>
     </source>
-    <source filename="wobniar_Yellow.ufo" name="::fontra004-29f94f96" familyname="WOBNIAR" stylename="Yellow">
+    <source filename="wobniar_Yellow.ufo" name="::fontra004-29f94f96::fontra003-ae16d7fb" familyname="WOBNIAR" stylename="Yellow">
       <location>
         <dimension name="RED " xvalue="0"/>
         <dimension name="ORNG" xvalue="0"/>
@@ -54,7 +54,7 @@
         <dimension name="VIOL" xvalue="0"/>
       </location>
     </source>
-    <source filename="wobniar_Green.ufo" name="::fontra005-0435bf82" familyname="WOBNIAR" stylename="Green">
+    <source filename="wobniar_Green.ufo" name="::fontra005-0435bf82::fontra004-b47844bc" familyname="WOBNIAR" stylename="Green">
       <location>
         <dimension name="RED " xvalue="0"/>
         <dimension name="ORNG" xvalue="0"/>
@@ -65,7 +65,7 @@
         <dimension name="VIOL" xvalue="0"/>
       </location>
     </source>
-    <source filename="wobniar_Blue.ufo" name="::fontra006-230cc642" familyname="WOBNIAR" stylename="Blue">
+    <source filename="wobniar_Blue.ufo" name="::fontra006-230cc642::fontra005-25423b24" familyname="WOBNIAR" stylename="Blue">
       <location>
         <dimension name="RED " xvalue="0"/>
         <dimension name="ORNG" xvalue="0"/>
@@ -76,7 +76,7 @@
         <dimension name="VIOL" xvalue="0"/>
       </location>
     </source>
-    <source filename="wobniar_Indigo.ufo" name="::fontra007-e81657c3" familyname="WOBNIAR" stylename="Indigo">
+    <source filename="wobniar_Indigo.ufo" name="::fontra007-e81657c3::fontra006-2821b80d" familyname="WOBNIAR" stylename="Indigo">
       <location>
         <dimension name="RED " xvalue="0"/>
         <dimension name="ORNG" xvalue="0"/>
@@ -87,7 +87,7 @@
         <dimension name="VIOL" xvalue="0"/>
       </location>
     </source>
-    <source filename="wobniar_Violet.ufo" name="::fontra008-dc5209e2" familyname="WOBNIAR" stylename="Violet">
+    <source filename="wobniar_Violet.ufo" name="::fontra008-dc5209e2::fontra007-72e993d9" familyname="WOBNIAR" stylename="Violet">
       <location>
         <dimension name="RED " xvalue="0"/>
         <dimension name="ORNG" xvalue="0"/>
@@ -98,5 +98,26 @@
         <dimension name="VIOL" xvalue="100"/>
       </location>
     </source>
-  </sources>  
+  </sources>
+  <lib>
+    <dict>
+      <key>fontra.projectGlyphSets</key>
+      <array>
+        <dict>
+          <key>codePointColumn</key>
+          <string>unicode hex</string>
+          <key>dataFormat</key>
+          <string>tsv/csv</string>
+          <key>glyphNameColumn</key>
+          <string>name</string>
+          <key>hasHeader</key>
+          <true/>
+          <key>name</key>
+          <string>BF Latin base</string>
+          <key>url</key>
+          <string>https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Latin/latin_base.csv</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </designspace>
