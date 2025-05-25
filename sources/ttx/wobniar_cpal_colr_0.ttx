@@ -134,6 +134,33 @@
       <layer colorID="5" name="M.5"/>
       <layer colorID="6" name="M.6"/>
     </ColorGlyph>
+    <ColorGlyph name="N">
+      <layer colorID="0" name="N.0"/>
+      <layer colorID="1" name="N.1"/>
+      <layer colorID="2" name="N.2"/>
+      <layer colorID="3" name="N.3"/>
+      <layer colorID="4" name="N.4"/>
+      <layer colorID="5" name="N.5"/>
+      <layer colorID="6" name="N.6"/>
+    </ColorGlyph>
+    <ColorGlyph name="P">
+      <layer colorID="0" name="P.0"/>
+      <layer colorID="1" name="P.1"/>
+      <layer colorID="2" name="P.2"/>
+      <layer colorID="3" name="P.3"/>
+      <layer colorID="4" name="P.4"/>
+      <layer colorID="5" name="P.5"/>
+      <layer colorID="6" name="P.6"/>
+    </ColorGlyph>
+    <ColorGlyph name="Q">
+      <layer colorID="0" name="Q.0"/>
+      <layer colorID="1" name="Q.1"/>
+      <layer colorID="2" name="Q.2"/>
+      <layer colorID="3" name="Q.3"/>
+      <layer colorID="4" name="Q.4"/>
+      <layer colorID="5" name="Q.5"/>
+      <layer colorID="6" name="Q.6"/>
+    </ColorGlyph>
   </COLR>
 
   
