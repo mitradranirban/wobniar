@@ -10,7 +10,7 @@
     <component base="comp0" yOffset="1280"/>
     <component base="comp0" xOffset="256"/>
     <component base="comp0" xOffset="512"/>
-    <component base="comp0" xOffset="768" yOffset="-4"/>
+    <component base="comp0" xOffset="768"/>
     <component base="comp0" xOffset="1024"/>
     <component base="comp0" xOffset="1280"/>
     <component base="comp0" xOffset="1280" yOffset="256"/>

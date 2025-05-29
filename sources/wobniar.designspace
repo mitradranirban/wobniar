@@ -117,6 +117,20 @@
           <key>url</key>
           <string>https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Latin/latin_base.csv</string>
         </dict>
+        <dict>
+          <key>codePointColumn</key>
+          <string>unicode hex</string>
+          <key>dataFormat</key>
+          <string>tsv/csv</string>
+          <key>glyphNameColumn</key>
+          <string>name</string>
+          <key>hasHeader</key>
+          <true/>
+          <key>name</key>
+          <string>BF Punctuation core</string>
+          <key>url</key>
+          <string>https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Punctuations/punctuation_core.csv</string>
+        </dict>
       </array>
     </dict>
   </lib>

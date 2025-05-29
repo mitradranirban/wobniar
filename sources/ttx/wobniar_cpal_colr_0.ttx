@@ -143,6 +143,15 @@
       <layer colorID="5" name="N.5"/>
       <layer colorID="6" name="N.6"/>
     </ColorGlyph>
+    <ColorGlyph name="O">
+      <layer colorID="0" name="O.0"/>
+      <layer colorID="1" name="O.1"/>
+      <layer colorID="2" name="O.2"/>
+      <layer colorID="3" name="O.3"/>
+      <layer colorID="4" name="O.4"/>
+      <layer colorID="5" name="O.5"/>
+      <layer colorID="6" name="O.6"/>
+    </ColorGlyph>
     <ColorGlyph name="P">
       <layer colorID="0" name="P.0"/>
       <layer colorID="1" name="P.1"/>
@@ -161,8 +170,86 @@
       <layer colorID="5" name="Q.5"/>
       <layer colorID="6" name="Q.6"/>
     </ColorGlyph>
+    <ColorGlyph name="R">
+      <layer colorID="0" name="R.0"/>
+      <layer colorID="1" name="R.1"/>
+      <layer colorID="2" name="R.2"/>
+      <layer colorID="3" name="R.3"/>
+      <layer colorID="4" name="R.4"/>
+      <layer colorID="5" name="R.5"/>
+      <layer colorID="6" name="R.6"/>
+    </ColorGlyph>
+    <ColorGlyph name="S">
+      <layer colorID="0" name="S.0"/>
+      <layer colorID="1" name="S.1"/>
+      <layer colorID="2" name="S.2"/>
+      <layer colorID="3" name="S.3"/>
+      <layer colorID="4" name="S.4"/>
+      <layer colorID="5" name="S.5"/>
+      <layer colorID="6" name="S.6"/>
+    </ColorGlyph>
+    <ColorGlyph name="T">
+      <layer colorID="0" name="T.0"/>
+      <layer colorID="1" name="T.1"/>
+      <layer colorID="2" name="T.2"/>
+      <layer colorID="3" name="T.3"/>
+      <layer colorID="4" name="T.4"/>
+      <layer colorID="5" name="T.5"/>
+      <layer colorID="6" name="T.6"/>
+    </ColorGlyph>
+    <ColorGlyph name="U">
+      <layer colorID="0" name="U.0"/>
+      <layer colorID="1" name="U.1"/>
+      <layer colorID="2" name="U.2"/>
+      <layer colorID="3" name="U.3"/>
+      <layer colorID="4" name="U.4"/>
+      <layer colorID="5" name="U.5"/>
+      <layer colorID="6" name="U.6"/>
+    </ColorGlyph>
+    <ColorGlyph name="V">
+      <layer colorID="0" name="V.0"/>
+      <layer colorID="1" name="V.1"/>
+      <layer colorID="2" name="V.2"/>
+      <layer colorID="3" name="V.3"/>
+      <layer colorID="4" name="V.4"/>
+      <layer colorID="5" name="V.5"/>
+      <layer colorID="6" name="V.6"/>
+    </ColorGlyph>
+    <ColorGlyph name="W">
+      <layer colorID="0" name="W.0"/>
+      <layer colorID="1" name="W.1"/>
+      <layer colorID="2" name="W.2"/>
+      <layer colorID="3" name="W.3"/>
+      <layer colorID="4" name="W.4"/>
+      <layer colorID="5" name="W.5"/>
+      <layer colorID="6" name="W.6"/>
+    </ColorGlyph>
+    <ColorGlyph name="X">
+      <layer colorID="0" name="X.0"/>
+      <layer colorID="1" name="X.1"/>
+      <layer colorID="2" name="X.2"/>
+      <layer colorID="3" name="X.3"/>
+      <layer colorID="4" name="X.4"/>
+      <layer colorID="5" name="X.5"/>
+      <layer colorID="6" name="X.6"/>
+    </ColorGlyph>
+    <ColorGlyph name="Y">
+      <layer colorID="0" name="Y.0"/>
+      <layer colorID="1" name="Y.1"/>
+      <layer colorID="2" name="Y.2"/>
+      <layer colorID="3" name="Y.3"/>
+      <layer colorID="4" name="Y.4"/>
+      <layer colorID="5" name="Y.5"/>
+      <layer colorID="6" name="Y.6"/>
+    </ColorGlyph>
+    <ColorGlyph name="Z">
+      <layer colorID="0" name="Z.0"/>
+      <layer colorID="1" name="Z.1"/>
+      <layer colorID="2" name="Z.2"/>
+      <layer colorID="3" name="Z.3"/>
+      <layer colorID="4" name="Z.4"/>
+      <layer colorID="5" name="Z.5"/>
+      <layer colorID="6" name="Z.6"/>
+    </ColorGlyph>
   </COLR>
-
-  
-
 </ttFont>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X.2" format="2">
+  <advance width="1792"/>
+  <outline>
+    <component base="compY" xOffset="256"/>
+    <component base="compY" xOffset="256" yOffset="1280"/>
+    <component base="compY" xOffset="1280"/>
+    <component base="compY" xOffset="1280" yOffset="1280"/>
+    <component base="compY" xOffset="512" yOffset="256"/>
+    <component base="compY" xOffset="768" yOffset="512"/>
+    <component base="compY" xOffset="1024" yOffset="1024"/>
+    <component base="compY" xOffset="512" yOffset="1024"/>
+    <component base="compY" xOffset="768" yOffset="768"/>
+    <component base="compY" xOffset="1024" yOffset="256"/>
+  </outline>
+</glyph>
