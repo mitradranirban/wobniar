@@ -6,16 +6,17 @@ It is a variable component bitmap font with variable color layers with 7 colors 
 
 Each color pixel size can be adjusted and 2-3 colors can be stacked together.
 
-This font is dedicated to the struggles of LGBTQ+ commmunity agaist worldwide homophobia. The 7 colors represent pride.
+This font is dedicated to the struggles of LGBTQIA+ commmunity agaist worldwide discrimination.  
+The font released on the occasion of month of pride (June 2025) as a token of solidarity with them.
 
 ## About
 This font is created by Dr Anirban Mitra, an amateure Typographer and Free Software Enthusiast.
  
 ## Changelog
-
+15th June 2025 - Version 0.1 
 
 ## Preview 
-![wobniar in action](documentation/wobniar.gif)
+![wobniar](documentation/wobniar.png)
 
 ## Download
 

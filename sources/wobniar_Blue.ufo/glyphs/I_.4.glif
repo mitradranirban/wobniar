@@ -4,7 +4,7 @@
   <outline>
     <component base="compB" xOffset="256"/>
     <component base="compB" xOffset="512"/>
-    <component base="compB" xOffset="768" yOffset="-4"/>
+    <component base="compB" xOffset="768"/>
     <component base="compB" xOffset="768" yOffset="1280"/>
     <component base="compB" xOffset="512" yOffset="1280"/>
     <component base="compB" xOffset="256" yOffset="1280"/>

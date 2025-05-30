@@ -233,12 +233,12 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
     <fontRevision value="0.001"/>
-    <checkSumAdjustment value="0x38e49a6"/>
+    <checkSumAdjustment value="0x7162793c"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="00000000 00000011"/>
     <unitsPerEm value="2048"/>
-    <created value="Thu May 29 15:51:34 2025"/>
-    <modified value="Thu May 29 15:51:34 2025"/>
+    <created value="Fri May 30 10:44:36 2025"/>
+    <modified value="Fri May 30 10:44:37 2025"/>
     <xMin value="0"/>
     <yMin value="-512"/>
     <xMax value="1550"/>
@@ -293,7 +293,7 @@
     <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
          will be recalculated by the compiler -->
     <version value="4"/>
-    <xAvgCharWidth value="1552"/>
+    <xAvgCharWidth value="1544"/>
     <usWeightClass value="400"/>
     <usWidthClass value="5"/>
     <fsType value="00000000 00000100"/>
@@ -409,13 +409,13 @@
     <mtx name="H.5" width="1536" lsb="383"/>
     <mtx name="H.6" width="1536" lsb="383"/>
     <mtx name="I" width="1280" lsb="256"/>
-    <mtx name="I.0" width="1536" lsb="639"/>
-    <mtx name="I.1" width="1536" lsb="639"/>
-    <mtx name="I.2" width="1536" lsb="639"/>
-    <mtx name="I.3" width="1536" lsb="639"/>
-    <mtx name="I.4" width="1536" lsb="639"/>
-    <mtx name="I.5" width="1536" lsb="639"/>
-    <mtx name="I.6" width="1536" lsb="639"/>
+    <mtx name="I.0" width="1280" lsb="383"/>
+    <mtx name="I.1" width="1280" lsb="383"/>
+    <mtx name="I.2" width="1280" lsb="383"/>
+    <mtx name="I.3" width="1280" lsb="383"/>
+    <mtx name="I.4" width="1280" lsb="383"/>
+    <mtx name="I.5" width="1280" lsb="383"/>
+    <mtx name="I.6" width="1280" lsb="383"/>
     <mtx name="J" width="1280" lsb="256"/>
     <mtx name="J.0" width="1536" lsb="383"/>
     <mtx name="J.1" width="1536" lsb="383"/>
@@ -1768,95 +1768,95 @@
       <component glyphName="comp0" x="512" y="768" flags="0x4"/>
     </TTGlyph>
 
-    <TTGlyph name="I.0" xMin="639" yMin="123" xMax="1153" yMax="1409">
+    <TTGlyph name="I.0" xMin="383" yMin="127" xMax="897" yMax="1409">
+      <component glyphName="compR" x="256" y="0" flags="0x4"/>
       <component glyphName="compR" x="512" y="0" flags="0x4"/>
       <component glyphName="compR" x="768" y="0" flags="0x4"/>
-      <component glyphName="compR" x="1024" y="-4" flags="0x4"/>
-      <component glyphName="compR" x="1024" y="1280" flags="0x4"/>
       <component glyphName="compR" x="768" y="1280" flags="0x4"/>
       <component glyphName="compR" x="512" y="1280" flags="0x4"/>
-      <component glyphName="compR" x="768" y="256" flags="0x4"/>
-      <component glyphName="compR" x="768" y="512" flags="0x4"/>
-      <component glyphName="compR" x="768" y="1024" flags="0x4"/>
-      <component glyphName="compR" x="768" y="768" flags="0x4"/>
+      <component glyphName="compR" x="256" y="1280" flags="0x4"/>
+      <component glyphName="compR" x="512" y="256" flags="0x4"/>
+      <component glyphName="compR" x="512" y="512" flags="0x4"/>
+      <component glyphName="compR" x="512" y="1024" flags="0x4"/>
+      <component glyphName="compR" x="512" y="768" flags="0x4"/>
     </TTGlyph>
 
-    <TTGlyph name="I.1" xMin="639" yMin="123" xMax="1153" yMax="1409">
+    <TTGlyph name="I.1" xMin="383" yMin="127" xMax="897" yMax="1409">
+      <component glyphName="compO" x="256" y="0" flags="0x4"/>
       <component glyphName="compO" x="512" y="0" flags="0x4"/>
       <component glyphName="compO" x="768" y="0" flags="0x4"/>
-      <component glyphName="compO" x="1024" y="-4" flags="0x4"/>
-      <component glyphName="compO" x="1024" y="1280" flags="0x4"/>
       <component glyphName="compO" x="768" y="1280" flags="0x4"/>
       <component glyphName="compO" x="512" y="1280" flags="0x4"/>
-      <component glyphName="compO" x="768" y="256" flags="0x4"/>
-      <component glyphName="compO" x="768" y="512" flags="0x4"/>
-      <component glyphName="compO" x="768" y="1024" flags="0x4"/>
-      <component glyphName="compO" x="768" y="768" flags="0x4"/>
+      <component glyphName="compO" x="256" y="1280" flags="0x4"/>
+      <component glyphName="compO" x="512" y="256" flags="0x4"/>
+      <component glyphName="compO" x="512" y="512" flags="0x4"/>
+      <component glyphName="compO" x="512" y="1024" flags="0x4"/>
+      <component glyphName="compO" x="512" y="768" flags="0x4"/>
     </TTGlyph>
 
-    <TTGlyph name="I.2" xMin="639" yMin="123" xMax="1153" yMax="1409">
+    <TTGlyph name="I.2" xMin="383" yMin="127" xMax="897" yMax="1409">
+      <component glyphName="compY" x="256" y="0" flags="0x4"/>
       <component glyphName="compY" x="512" y="0" flags="0x4"/>
       <component glyphName="compY" x="768" y="0" flags="0x4"/>
-      <component glyphName="compY" x="1024" y="-4" flags="0x4"/>
-      <component glyphName="compY" x="1024" y="1280" flags="0x4"/>
       <component glyphName="compY" x="768" y="1280" flags="0x4"/>
       <component glyphName="compY" x="512" y="1280" flags="0x4"/>
-      <component glyphName="compY" x="768" y="256" flags="0x4"/>
-      <component glyphName="compY" x="768" y="512" flags="0x4"/>
-      <component glyphName="compY" x="768" y="1024" flags="0x4"/>
-      <component glyphName="compY" x="768" y="768" flags="0x4"/>
+      <component glyphName="compY" x="256" y="1280" flags="0x4"/>
+      <component glyphName="compY" x="512" y="256" flags="0x4"/>
+      <component glyphName="compY" x="512" y="512" flags="0x4"/>
+      <component glyphName="compY" x="512" y="1024" flags="0x4"/>
+      <component glyphName="compY" x="512" y="768" flags="0x4"/>
     </TTGlyph>
 
-    <TTGlyph name="I.3" xMin="639" yMin="123" xMax="1153" yMax="1409">
+    <TTGlyph name="I.3" xMin="383" yMin="127" xMax="897" yMax="1409">
+      <component glyphName="compG" x="256" y="0" flags="0x4"/>
       <component glyphName="compG" x="512" y="0" flags="0x4"/>
       <component glyphName="compG" x="768" y="0" flags="0x4"/>
-      <component glyphName="compG" x="1024" y="-4" flags="0x4"/>
-      <component glyphName="compG" x="1024" y="1280" flags="0x4"/>
       <component glyphName="compG" x="768" y="1280" flags="0x4"/>
       <component glyphName="compG" x="512" y="1280" flags="0x4"/>
-      <component glyphName="compG" x="768" y="256" flags="0x4"/>
-      <component glyphName="compG" x="768" y="512" flags="0x4"/>
-      <component glyphName="compG" x="768" y="1024" flags="0x4"/>
-      <component glyphName="compG" x="768" y="768" flags="0x4"/>
+      <component glyphName="compG" x="256" y="1280" flags="0x4"/>
+      <component glyphName="compG" x="512" y="256" flags="0x4"/>
+      <component glyphName="compG" x="512" y="512" flags="0x4"/>
+      <component glyphName="compG" x="512" y="1024" flags="0x4"/>
+      <component glyphName="compG" x="512" y="768" flags="0x4"/>
     </TTGlyph>
 
-    <TTGlyph name="I.4" xMin="639" yMin="123" xMax="1153" yMax="1409">
+    <TTGlyph name="I.4" xMin="383" yMin="127" xMax="897" yMax="1409">
+      <component glyphName="compB" x="256" y="0" flags="0x4"/>
       <component glyphName="compB" x="512" y="0" flags="0x4"/>
       <component glyphName="compB" x="768" y="0" flags="0x4"/>
-      <component glyphName="compB" x="1024" y="-4" flags="0x4"/>
-      <component glyphName="compB" x="1024" y="1280" flags="0x4"/>
       <component glyphName="compB" x="768" y="1280" flags="0x4"/>
       <component glyphName="compB" x="512" y="1280" flags="0x4"/>
-      <component glyphName="compB" x="768" y="256" flags="0x4"/>
-      <component glyphName="compB" x="768" y="512" flags="0x4"/>
-      <component glyphName="compB" x="768" y="1024" flags="0x4"/>
-      <component glyphName="compB" x="768" y="768" flags="0x4"/>
+      <component glyphName="compB" x="256" y="1280" flags="0x4"/>
+      <component glyphName="compB" x="512" y="256" flags="0x4"/>
+      <component glyphName="compB" x="512" y="512" flags="0x4"/>
+      <component glyphName="compB" x="512" y="1024" flags="0x4"/>
+      <component glyphName="compB" x="512" y="768" flags="0x4"/>
     </TTGlyph>
 
-    <TTGlyph name="I.5" xMin="639" yMin="123" xMax="1153" yMax="1409">
+    <TTGlyph name="I.5" xMin="383" yMin="127" xMax="897" yMax="1409">
+      <component glyphName="compI" x="256" y="0" flags="0x4"/>
       <component glyphName="compI" x="512" y="0" flags="0x4"/>
       <component glyphName="compI" x="768" y="0" flags="0x4"/>
-      <component glyphName="compI" x="1024" y="-4" flags="0x4"/>
-      <component glyphName="compI" x="1024" y="1280" flags="0x4"/>
       <component glyphName="compI" x="768" y="1280" flags="0x4"/>
       <component glyphName="compI" x="512" y="1280" flags="0x4"/>
-      <component glyphName="compI" x="768" y="256" flags="0x4"/>
-      <component glyphName="compI" x="768" y="512" flags="0x4"/>
-      <component glyphName="compI" x="768" y="1024" flags="0x4"/>
-      <component glyphName="compI" x="768" y="768" flags="0x4"/>
+      <component glyphName="compI" x="256" y="1280" flags="0x4"/>
+      <component glyphName="compI" x="512" y="256" flags="0x4"/>
+      <component glyphName="compI" x="512" y="512" flags="0x4"/>
+      <component glyphName="compI" x="512" y="1024" flags="0x4"/>
+      <component glyphName="compI" x="512" y="768" flags="0x4"/>
     </TTGlyph>
 
-    <TTGlyph name="I.6" xMin="639" yMin="123" xMax="1153" yMax="1409">
+    <TTGlyph name="I.6" xMin="383" yMin="127" xMax="897" yMax="1409">
+      <component glyphName="compV" x="256" y="0" flags="0x4"/>
       <component glyphName="compV" x="512" y="0" flags="0x4"/>
       <component glyphName="compV" x="768" y="0" flags="0x4"/>
-      <component glyphName="compV" x="1024" y="-4" flags="0x4"/>
-      <component glyphName="compV" x="1024" y="1280" flags="0x4"/>
       <component glyphName="compV" x="768" y="1280" flags="0x4"/>
       <component glyphName="compV" x="512" y="1280" flags="0x4"/>
-      <component glyphName="compV" x="768" y="256" flags="0x4"/>
-      <component glyphName="compV" x="768" y="512" flags="0x4"/>
-      <component glyphName="compV" x="768" y="1024" flags="0x4"/>
-      <component glyphName="compV" x="768" y="768" flags="0x4"/>
+      <component glyphName="compV" x="256" y="1280" flags="0x4"/>
+      <component glyphName="compV" x="512" y="256" flags="0x4"/>
+      <component glyphName="compV" x="512" y="512" flags="0x4"/>
+      <component glyphName="compV" x="512" y="1024" flags="0x4"/>
+      <component glyphName="compV" x="512" y="768" flags="0x4"/>
     </TTGlyph>
 
     <TTGlyph name="J" xMin="256" yMin="0" xMax="1024" yMax="1536">
